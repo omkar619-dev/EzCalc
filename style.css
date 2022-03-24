@@ -1,0 +1,28 @@
+
+body{
+  background-color: rgb(165, 241, 235);
+}
+
+.container{
+  align-content:center;
+    display: flex;
+    gap: 10px;
+   flex-wrap:wrap;
+width:15em;
+ background-color: orange;
+}
+.display{
+  border-radius: 10px;
+  background-color: orange;
+  height: 30px;
+  width: 17.6em;
+  margin-bottom: 13px;
+  
+}
+button{
+  background-color: aqua;
+  border-radius: 10px;
+height:4em;
+  flex-grow:1;
+  width: 50px;
+}
